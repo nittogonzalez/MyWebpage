@@ -1,3 +1,17 @@
+/* #name{
+    color: black;
+    border: 10px;
+    border-style: inset;
+    border-color: darkgoldenrod;
+    background-color:indianred;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    font-weight: bold;
+    font-size: xx-large;
+
+} */
+
 .aboutMe{
     position: relative;
     float: right;
@@ -9,8 +23,18 @@
     float: right;
 }
 #infoBar{
+    color: black;
+    border: 10px;
+    border-style: inset;
+    border-color: darkgoldenrod;
+    background-color:indianred;
+    position: relative;
+    left: 5px;
+    top: 20px;
+    right: 50px;
+    bottom: 60px;
+    font-weight: bold;
     font-size: xx-large;
-    margin-bottom: 50px;
 }
 
 .fau_link{
@@ -70,6 +94,15 @@
 position: relative;
 left: 20px;
 }
-.linkedin{
+.projects{
+    position: relative;
+    top: 40px;
+}
+
+/* .linkedin{
 
 }
+
+.phone{
+
+} */
